@@ -65,5 +65,5 @@ MIT Open Source License
 
 ## Contact
 
-Shubham Saurabh
+Shubham Saurabh <br>
 Email: shubham160600@gmail.com
